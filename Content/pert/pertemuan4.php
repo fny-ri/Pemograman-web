@@ -39,7 +39,7 @@
 
      <table border="1">
             <tr>
-                <th colspan="4">Data Brand</th>
+                <th colspan="5" style="background-color:DodgerBlue;">Data Brand</th>
             </tr>
         <tr>
             <th>No</th>
